@@ -1,3 +1,4 @@
+```
 $ geth --help
 NAME:
    geth - the ETC Core Go-Ethereum command line interface
@@ -241,3 +242,4 @@ MISC OPTIONS:
 
 COPYRIGHT:
    Copyright 2013-2020 The core-geth and go-ethereum Authors
+```
